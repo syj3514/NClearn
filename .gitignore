@@ -1,4 +1,5 @@
-**/*.zip
 **/*.pkl
 rur
 old
+part_example.zip
+cell_example.zip
